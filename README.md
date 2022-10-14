@@ -1,0 +1,1 @@
+# sequalize-user-nodejs
